@@ -1,6 +1,0 @@
-Árbol Binario: 
----------------------------------------------------------
-Recorridos:
-PreOrden: []
-InOrden: []
-PostOrden: []
